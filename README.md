@@ -15,4 +15,4 @@ You can get a detailed explanation at: https://www.jenkins.io/doc/book/pipeline/
 
 - Click "Save" and your library will be ready to use.
 
-***(This repository is under construction. I'll add more when I feel like it.***
+***This repository is under construction. I'll add more when I feel like it.***
